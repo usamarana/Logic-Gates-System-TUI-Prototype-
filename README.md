@@ -5,4 +5,4 @@ A functional logic gate system using AND/OR gates to make various connections to
 Click [here](https://youtu.be/RbQuB3q6-HA) or on the image below to see a video demonstration. 
 [![IMAGE ALT TEXT HERE](https://i.imgur.com/2CGegcg.jpg)](https://youtu.be/RbQuB3q6-HA)
 **NOTE:** 
-There are many possible complex connections which can be made with this system with the combination of both gates (functional). However this video only shows a quick demo of simple connections.
+As shown in the image above there are many possible complex connections which can be made with this system with the combination of both gates (functional). However this video only shows a quick demo of simple connections.
